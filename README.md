@@ -6,7 +6,7 @@ such as audio, video, subtitles and related metadata.
 
 ## Libraries
 
-* `libavcodec` provides implementation of a wider range of codecs.
+* `libavcodec provides implementation of a wider range of codecs.
 * `libavformat` implements streaming protocols, container formats and basic I/O access.
 * `libavutil` includes hashers, decompressors and miscellaneous utility functions.
 * `libavfilter` provides means to alter decoded audio and video through a directed graph of connected filters.
